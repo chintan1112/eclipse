@@ -10,4 +10,9 @@ public class App
     {
         System.out.println( "Hello World!" );
     }
+    
+    public static void explore11(){
+    	System.out.println( "explore 11 is loading..");
+    }
+    
 }
