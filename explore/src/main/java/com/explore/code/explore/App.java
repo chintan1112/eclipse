@@ -18,6 +18,6 @@ public class App
     
     public static void explore12( )
     {
-        System.out.println( "Explore 12 Loading ....." );
+        System.out.println( "Explore 12 Loading changes....." );
     }
 }
